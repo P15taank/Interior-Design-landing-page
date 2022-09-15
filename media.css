@@ -1,0 +1,72 @@
+@media screen and (max-width: 500px) {
+    @import url("https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap");
+
+body {
+  background-position: center;
+  background-size: cover;
+  width: 90%;
+  height: 100%;
+  overflow-x: hidden;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-items {
+display: none;
+}
+
+.callimg {
+display: none;
+}
+.navtext {
+display: none;
+}
+.line {
+ display: none;
+}
+
+.main-left {
+  margin-top: 0;
+  margin-left: 3.125rem;
+  width: 100%;
+}
+
+.main-right
+{
+  width: 100%;
+}
+/* space */
+.space {
+  margin-left: 4.375rem;
+  margin-bottom: 0.625rem;
+}
+
+
+.linedot
+{
+    display: none;
+}
+.dot
+{
+display: none;
+}
+
+/* light */
+.light {
+    margin-left: 4.375rem;
+    margin-bottom: 0.625rem;
+  }
+
+
+.linedot1
+{
+    display: none;
+}
+.dot1
+{
+    display: none;
+}
+
+}
