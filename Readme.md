@@ -13,4 +13,4 @@
 ## Time Spent
 I spent 6 hours to complete this project
 ## Live Link
-Preview the project [Here]()
+Preview the project [Here](https://interior-design-page-a10.netlify.app/)
